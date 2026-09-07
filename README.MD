@@ -6,7 +6,7 @@
 - Potência do aparelho em watts;
 - Tempo médio de uso diário em horas;
 - Calculo do consumo mensal em kwh, usando a fórmula: 
-- consumoMensal = (potencia * horasDia * 30 / 1000)
+- ConsumoMensal = (potencia * horasDia * 30 / 1000)
   
 #
  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
