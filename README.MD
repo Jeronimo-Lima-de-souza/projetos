@@ -1,7 +1,7 @@
 # Nome: Calculo de consumo de energia em kwh. 
 **Este projeto foi criado para calcular o tempo médio de uso diário em hora  do consumo mensal em KWH de aparelhos eletricos, potencia 110 e 220 Watts.
-** Linguagem usada: Python
-** O programa solicita:
+# Linguagem usada: Python
+# O programa solicita:
 - Nome do aparelho;
 - Potência do aparelho em watts;
 - Tempo médio de uso diário em horas;
