@@ -1,4 +1,4 @@
-# consumo-energia
+# consumo-energia em kwh
 
 # Entrada das informações.
 
