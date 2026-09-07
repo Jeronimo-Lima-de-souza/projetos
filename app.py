@@ -1,7 +1,5 @@
 # consumo-energia em kwh.
-
 # Entrada das informações.
-
 input("Digite o nome do aparelho: ")
 potencia = float(input("Digite a potencia do aparelho em watts: " ))
 horasDia = int(input("Digite o tempo medio de uso diario em horas: " ))
